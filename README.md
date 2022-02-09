@@ -27,5 +27,8 @@ Please make sure to add some comments in between when you are implementing your 
 ---
 
 **Schedule:**
-Preprocessing: 09 Feb 2022 - 12 Feb 2022
-Subtopics: 13 Feb 2022 - 18 Feb 2022
+| Task | Start Date | End Date |  
+|-----------|:-----------:|-----------:|  
+| Preprocessing<br/>(4 Days) | 09 Feb 2022 | 12 Feb 2022 |  
+| Subtopic<br/>(6 Days) | 13 Feb 2022 | 18 Feb 2022 |
+
