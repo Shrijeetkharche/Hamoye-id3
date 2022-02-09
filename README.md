@@ -33,3 +33,6 @@ Please make sure to add some comments in between when you are implementing your 
 | Preprocessing<br/>(4 Days) | 09 Feb 2022 | 12 Feb 2022 |  
 | Subtopic<br/>(6 Days) | 13 Feb 2022 | 18 Feb 2022 |
 
+
+I’ll assign the groups for subtopics on 11th Feb 2022.
+Also, we have to prepare a presentation along so note down your every thought that we can include in our presentation.
