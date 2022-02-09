@@ -14,6 +14,7 @@ Let's have a look over the subpoints we have to analyze using the given dataset,
     - Death per Month Change:
     - Death per State Change:
 
+---
 
 NOTE: For the visualization of the graphs here we can use a python package called ‘Altair’. Make sure to look up the documentation on this also.
 
@@ -22,6 +23,8 @@ The work on the dataset is already done and it’s available on the Kaggle. For 
 So firstly we will do the preprocessing part(It will be done by all of us) and for the other parts, we will divide us into smaller groups which will specifically look for the subtopics i.e., Death per age/month/state.
 
 Please make sure to add some comments in between when you are implementing your subtopics which will help other groups later to get understood easily.
+
+---
 
 **Schedule:**
 Preprocessing: 09 Feb 2022 - 12 Feb 2022
